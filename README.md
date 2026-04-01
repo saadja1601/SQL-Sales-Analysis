@@ -31,4 +31,4 @@ Sales dataset containing information on transactions, products, customers, prici
 
 ## Visualization
 
-![Revenue by Region](screenshots/revenue_by_region.png)
+![Revenue by Region](main/revenue_by_region.png)
