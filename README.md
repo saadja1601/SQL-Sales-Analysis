@@ -28,3 +28,7 @@ Sales dataset containing information on transactions, products, customers, prici
 ## Files
 - queries.sql (SQL queries)https://assets.grammarly.com/emoji/v1/1f91d.svg
 - dataset.csv (raw dataset)
+
+## Visualization
+
+![Revenue by Region](screenshots/revenue_by_region.png)
