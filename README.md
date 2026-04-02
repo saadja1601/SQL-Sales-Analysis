@@ -26,7 +26,7 @@ Sales dataset containing information on transactions, products, customers, prici
 - Discounts vary across product categories and impact margins
 
 ## Files
-- queries.sql (SQL queries)https://
+- queries.sql (SQL queries)
 - dataset.csv (raw dataset)
 
 ## Visualization
