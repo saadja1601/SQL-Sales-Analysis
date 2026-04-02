@@ -26,9 +26,9 @@ Sales dataset containing information on transactions, products, customers, prici
 - Discounts vary across product categories and impact margins
 
 ## Files
-- queries.sql (SQL queries)https://assets.grammarly.com/emoji/v1/1f91d.svg
+- queries.sql (SQL queries)https://
 - dataset.csv (raw dataset)
 
 ## Visualization
 
-![Revenue by Region](main/revenue_by_region.png)
+![Revenue by Region](screenshots/revenue_by_region.png)
